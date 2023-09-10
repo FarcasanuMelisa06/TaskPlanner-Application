@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F76A2FB5-BF34-47EC-9635-0C92749A1DCC"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C917AD16-FFB8-4B58-B469-A98FD463B0E5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ClientTaskManager/View/Controllers/LoginViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "C917AD16-FFB8-4B58-B469-A98FD463B0E5 - 7466af50b43d8b75"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Task_Manager.LoginViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Task_Manager.LoginViewController"
+                  moduleName = "Task Manager"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/melisafarcasanu/Desktop/TaskManager/ClientTaskManager/ClientTaskManager/View/Controllers/LoginViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "C917AD16-FFB8-4B58-B469-A98FD463B0E5 - 8f39fbb7d150a620"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Task_Manager.LoginViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Task_Manager.LoginViewController"
+                  moduleName = "Task Manager"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/melisafarcasanu/Desktop/TaskManager/ClientTaskManager/ClientTaskManager/View/Controllers/LoginViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "C917AD16-FFB8-4B58-B469-A98FD463B0E5 - a9cab71be0931034"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Task_Manager.LoginViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Task_Manager.LoginViewController&gt;"
+                  moduleName = "Task Manager"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/melisafarcasanu/Desktop/TaskManager/ClientTaskManager/ClientTaskManager/View/Controllers/LoginViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "C917AD16-FFB8-4B58-B469-A98FD463B0E5 - 45ab898dc45f7fd3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Task_Manager.LoginViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Task_Manager.LoginViewController&gt;"
+                  moduleName = "Task Manager"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/melisafarcasanu/Desktop/TaskManager/ClientTaskManager/ClientTaskManager/View/Controllers/LoginViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "C917AD16-FFB8-4B58-B469-A98FD463B0E5 - 87f0894fecc674bc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Task_Manager.LoginViewController.__deallocating_deinit"
+                  moduleName = "Task Manager"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/melisafarcasanu/Desktop/TaskManager/ClientTaskManager/ClientTaskManager/View/Controllers/LoginViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "36180730-9669-4312-9229-17E7310DADA1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ClientTaskManager/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "application(_:didFinishLaunchingWithOptions:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1301CA8B-48F5-445A-B9AB-3AFCBBAD7DAF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ClientTaskManager/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "AppDelegate"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
